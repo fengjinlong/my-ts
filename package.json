@@ -1,0 +1,28 @@
+{
+  "name": "my-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengjinlong/my-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengjinlong/my-ts/issues"
+  },
+  "homepage": "https://github.com/fengjinlong/my-ts#readme",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.5.9",
+    "jquery": "^3.6.0"
+  },
+  "type": "module"
+}
