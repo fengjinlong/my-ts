@@ -18,11 +18,7 @@
   },
   "homepage": "https://github.com/fengjinlong/my-ts#readme",
   "dependencies": {
-    "typescript": "^4.5.2"
   },
   "devDependencies": {
-    "@types/jquery": "^3.5.9",
-    "jquery": "^3.6.0"
-  },
-  "type": "module"
+  }
 }
